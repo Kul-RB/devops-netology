@@ -15,3 +15,6 @@ override.tf.json - игнорируется файл  override.tf.json
 *_override.tf.json - игнорируются файлы название которых заканчиваются на _override.tf.json
 .terraformrc - игнорируется файл .terraformrc
 terraform.rc - игнорируется файл terraform.rc
+
+#Task 3 change file in new branch
+Branch fix
