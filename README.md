@@ -35,3 +35,13 @@
 random_string_FAKE не объявлен в "random_password"
 4.4 ![image](https://github.com/Kul-RB/devops-netology/assets/53901269/68a0ce6b-de27-4b6a-bca0-b7466c42db09)
 Неправильное наименование атрибута result, вместо resulT необходимо написать result
+5. ![image](https://github.com/Kul-RB/devops-netology/assets/53901269/b955e5bf-f276-4ef3-aa9b-4462d0ade3ec)
+![image](https://github.com/Kul-RB/devops-netology/assets/53901269/bd1a888f-ec09-42db-957c-60692d1d3832)
+6,7. ![image](https://github.com/Kul-RB/devops-netology/assets/53901269/b34f1ead-b3c7-4647-ad2e-e1ec664aacb1)
+Флаг auto-approve не справшивает нужно ли применить план или нет, таки образом можно удалить нужные данные, лучше сначала сделать terraform plan -> terraform apply
+8. ![image](https://github.com/Kul-RB/devops-netology/assets/53901269/e6e53f80-b030-4736-944d-7e9d162bca87)
+9. Потому что стоит флаг keep_localy со значением true;
+keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
+
+
+
